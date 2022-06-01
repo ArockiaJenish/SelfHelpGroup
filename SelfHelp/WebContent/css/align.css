@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 50px 0 0 100px;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	padding: 8px;
+	background-color: #dddddd;
+}
+
+h1 {
+	/* diaplay: block; */
+	color: #0000ff;
+	text-align: center;
+}
+
+body {
+	background-color: #eb94c4;
+}
+
+button {
+	display: block;
+	font-family: Times New Romans;
+	font-size: 18px;
+	padding: 4px;
+	cursor: pointer;
+	background-color: #00ffff;
+}
+
+table{
+	border:1;
+	width:90%;
+	align:center;
+}
+
+th{
+	background-color: silver;
+}
